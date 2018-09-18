@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "/Users/anasharm/.ssh"
+		},
+        {
+            "path": "/Users/anasharm/.kube"
+        },
+        {
+            "path": "/Users/anasharm/.dotfiles"
+        },
+	],
+	"settings": {}
+}
