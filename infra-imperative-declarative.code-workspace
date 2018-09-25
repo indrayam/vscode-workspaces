@@ -5,6 +5,9 @@
 		},
         {
             "path": "/Users/anasharm/workspace/imperative-infra"
+        },
+        {
+            "path": "/Users/anasharm/workspace/imperative-k8s"
         },        
 	],
 	"settings": {}
