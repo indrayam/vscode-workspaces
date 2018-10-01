@@ -1,0 +1,26 @@
+{
+	"folders": [
+        {
+            "path": "/Users/anasharm/workspace/debug-container-spinnaker"
+        },
+        {
+            "path": "/Users/anasharm/workspace/debug-container-slim"
+        },
+        {
+            "path": "/Users/anasharm/workspace/debug-container-openshift"
+        },
+        {
+            "path": "/Users/anasharm/workspace/bash-bootstrap-kubernetes"
+        },
+        {
+            "path": "/Users/anasharm/workspace/bash-bootstrap-slim"
+        },
+		{
+			"path": "/Users/anasharm/workspace/hacking-sessions"
+		},
+        {
+            "path": "/Users/anasharm/workspace/spinnaker-k8s-v2-demo"
+        }
+	],
+	"settings": {}
+}
