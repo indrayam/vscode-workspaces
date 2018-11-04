@@ -1,13 +1,28 @@
 {
 	"folders": [
-		{
-			"path": "/Users/anasharm/.ssh"
-		},
         {
-            "path": "/Users/anasharm/.kube"
+            "path": "/Users/anasharm/.dotkube/",
         },
         {
-            "path": "/Users/anasharm/.dotfiles"
+            "path": "/Users/anasharm/.dothal/",
+        },
+        {
+            "path": "/Users/anasharm/.dotfiles",
+        },
+        {
+            "path": "/Users/anasharm/.ssh/",
+        },
+        {
+            "path": "/Users/anasharm/.terraform.d/",
+        },
+        {
+            "path": "/Users/anasharm/.tmux/",
+        },
+        {
+            "path": "/Users/anasharm/.oh-my-zsh/",
+        },
+        {
+            "path": "/Users/anasharm/.config/",
         },
 	],
 	"settings": {}

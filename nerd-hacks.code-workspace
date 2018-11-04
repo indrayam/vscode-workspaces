@@ -1,6 +1,12 @@
 {
 	"folders": [
         {
+            "path": "/Users/anasharm/workspace/java-container-alpine"
+        },
+        {
+            "path": "/Users/anasharm/workspace/java-container"
+        },
+        {
             "path": "/Users/anasharm/workspace/debug-container-spinnaker"
         },
         {
@@ -15,12 +21,15 @@
         {
             "path": "/Users/anasharm/workspace/bash-bootstrap-slim"
         },
-		{
-			"path": "/Users/anasharm/workspace/hacking-sessions"
-		},
         {
             "path": "/Users/anasharm/workspace/spinnaker-k8s-v2-demo"
-        }
+        },
+        {
+            "path": "/Users/anasharm/workspace/hacking-sessions"
+        },
+        {
+            "path": "/Users/anasharm/workspace/scratchpad-apps/Spoon-Knife"
+        },
 	],
 	"settings": {}
 }

@@ -1,14 +1,23 @@
 {
 	"folders": [
+        {
+            "path": "/Users/anasharm/workspace/spinnaker-toolbox"
+        },
+        {
+            "path": "/Users/anasharm/workspace/s3-setup-imperative"
+        },
+        {
+            "path": "/Users/anasharm/workspace/bin"
+        },
+        {
+            "path": "/Users/anasharm/workspace/csco-image-sizes"
+        },
 		{
 			"path": "/Users/anasharm/workspace/cnt-demo/hcnd-web-app-bg"
 		},
-		{
-			"path": "/Users/anasharm/workspace/cnt-demo/hcnd-web-app-multi-cloud"
-		},
-		{
-			"path": "/Users/anasharm/workspace/cnt-demo/hcn-web-app-cd2-pipeline-beginner"
-		}
+        {
+            "path": "/Users/anasharm/workspace/cnt-demo/hcnd-web-app-multi-cloud"
+        },
 	],
 	"settings": {}
 }

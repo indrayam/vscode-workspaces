@@ -1,0 +1,46 @@
+{
+	"folders": [
+        {
+            "path": "/Users/anasharm/.hal"
+        },
+        {
+            "path": "/Users/anasharm/.spinnaker"
+        },
+        {
+            "path": "/Users/anasharm/dev/spinnaker/halyard"
+        },        
+        {
+            "path": "/Users/anasharm/dev/spinnaker/clouddriver"
+        },
+        {
+            "path": "/Users/anasharm/dev/spinnaker/deck"
+        },
+        {
+            "path": "/Users/anasharm/dev/spinnaker/echo"
+        },
+        {
+            "path": "/Users/anasharm/dev/spinnaker/fiat"
+        },
+        {
+            "path": "/Users/anasharm/dev/spinnaker/front50"
+        },
+        {
+            "path": "/Users/anasharm/dev/spinnaker/gate"
+        },
+        {
+            "path": "/Users/anasharm/dev/spinnaker/igor"
+        },
+        {
+            "path": "/Users/anasharm/dev/spinnaker/kayenta"
+        },
+        {
+            "path": "/Users/anasharm/dev/spinnaker/orca"
+        },
+        {
+            "path": "/Users/anasharm/dev/spinnaker/rosco"
+        },
+        {
+            "path": "/Users/anasharm/dev/spinnaker/scripts"
+        },	],
+	"settings": {}
+}

@@ -1,19 +1,25 @@
 {
 	"folders": [
 		{
-			"path": "/Users/anasharm/workspace/cd-2.0-pipeline-design"
+		    "path": "/Users/anasharm/workspace/code-cd-documentation/cd-2.0-support-readiness-quiz",
 		},
 		{
-			"path": "/Users/anasharm/Box Sync/cda-geeks/5.x-cloud-native"
+		    "path": "/Users/anasharm/workspace/code-cd-documentation/cd-2.0-ga-readiness",
 		},
 		{
-			"path": "/Users/anasharm/Box Sync/cda-geeks/4.x"
+		    "path": "/Users/anasharm/workspace/code-cd-documentation/cd-2.0-pipeline-design",
+		},        
+		{
+		    "path": "/Users/anasharm/Box Sync/cda-geeks/5.x-cloud-native",
 		},
 		{
-			"path": "/Users/anasharm/Box Sync/cda-geeks/3.x"
+		    "path": "/Users/anasharm/Box Sync/cda-geeks/4.x",
 		},
 		{
-			"path": "/Users/anasharm/Box Sync/cda-geeks/2.x"
+		    "path": "/Users/anasharm/Box Sync/cda-geeks/3.x",
+		},
+		{
+		    "path": "/Users/anasharm/Box Sync/cda-geeks/2.x",
 		},
 	],
 	"settings": {}

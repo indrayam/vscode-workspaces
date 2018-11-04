@@ -1,14 +1,14 @@
 {
 	"folders": [
-		{
-			"path": "/Users/anasharm/workspace/java-apps/core-java-1"
-		},
         {
-            "path": "/Users/anasharm/workspace/java-apps/spring-boot-configmaps-demo"
+            "path": "/Users/anasharm/workspace/java-apps/core-java-9-for-the-impatient-book"
         },
         {
-            "path": "/Users/anasharm/workspace/java-apps/spring-boot-configmaps-as-file-demo"
-        }
+            "path": "/Users/anasharm/workspace/java-apps/core-java-1-book"
+        },
+        {
+            "path": "/Users/anasharm/workspace/java-apps/get-programming-with-java-book"
+        },
 	],
 	"settings": {}
 }
