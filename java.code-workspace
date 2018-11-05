@@ -1,14 +1,8 @@
 {
 	"folders": [
         {
-            "path": "/Users/anasharm/workspace/java-apps/core-java-9-for-the-impatient-book"
-        },
-        {
-            "path": "/Users/anasharm/workspace/java-apps/core-java-1-book"
-        },
-        {
-            "path": "/Users/anasharm/workspace/java-apps/get-programming-with-java-book"
-        },
+            "path": "/Users/anasharm/workspace/java-apps"
+        }
 	],
 	"settings": {}
 }
