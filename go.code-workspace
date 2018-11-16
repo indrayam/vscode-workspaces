@@ -1,8 +1,11 @@
 {
 	"folders": [
 		{
-			"path": "/Users/anasharm/workspace/go-apps/src/github.com/indrayam"
-		}
+			"path": "/Users/anasharm/workspace/go/geeking-with-go"
+		},
+        {
+            "path": "/Users/anasharm/workspace/go/go-safari"
+        },
 	],
 	"settings": {}
 }
