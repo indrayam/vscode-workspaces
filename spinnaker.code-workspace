@@ -7,6 +7,12 @@
             "path": "/Users/anasharm/.spinnaker"
         },
         {
+            "path": "/Users/anasharm/.spinnaker-local"
+        },
+        {
+            "path": "/Users/anasharm/workspace/spinnaker-the-hard-way/spin-scripts"
+        },
+        {
             "path": "/Users/anasharm/dev/spinnaker/halyard"
         },        
         {
