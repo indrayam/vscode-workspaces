@@ -1,17 +1,5 @@
 {
-	"folders": [
-        {
-            "path": "/Users/anasharm/workspace/cdconsole-design",
-        },
-		{
-		    "path": "/Users/anasharm/workspace/code-cd-documentation/cd-2.0-support-readiness-quiz",
-		},
-		{
-		    "path": "/Users/anasharm/workspace/code-cd-documentation/cd-2.0-ga-readiness",
-		},
-		{
-		    "path": "/Users/anasharm/workspace/code-cd-documentation/cd-2.0-pipeline-design",
-		},        
+	"folders": [       
 		{
 		    "path": "/Users/anasharm/Box Sync/cda-geeks/5.x-cloud-native",
 		},
