@@ -18,6 +18,18 @@
         {
             "path": "/Users/anasharm/workspace/cnt-demo/hcnd-web-app-multi-cloud"
         },
+        {
+            "path": "/Users/anasharm/workspace/anand-cd2-demo-greenfield"
+        },
+        {
+            "path": "/Users/anasharm/workspace/sharma-cd2-demo-greenfield"
+        },
+        {
+            "path": "/Users/anasharm/workspace/jenkins-cli"
+        },
+        {
+            "path": "/Users/anasharm/workspace/spin-cli"
+        },
 	],
 	"settings": {}
 }
