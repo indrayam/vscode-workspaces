@@ -1,5 +1,11 @@
 {
 	"folders": [       
+        {
+            "path": "/Users/anasharm/workspace/cisco-notes-scratchpad",
+        },
+        {
+            "path": "/Users/anasharm/workspace/devsecops-markdown-docs",
+        }, 
 		{
 		    "path": "/Users/anasharm/Box Sync/cda-geeks/5.x-cloud-native",
 		},
