@@ -24,6 +24,9 @@
         {
             "path": "/Users/anasharm/.config/",
         },
+        {
+            "path": "/Users/anasharm/.mc/",
+        },
 	],
 	"settings": {}
 }
