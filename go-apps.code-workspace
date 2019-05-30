@@ -1,14 +1,8 @@
 {
 	"folders": [
-        {
-            "path": "/Users/anasharm/workspace/go-apps/src/go-scratchpad"
-        },
 		{
 			"path": "/Users/anasharm/workspace/go-apps/src/learning-go"
-		},
-        {
-            "path": "/Users/anasharm/workspace/go-apps/src/go-safari"
-        },
+		}
 	],
 	"settings": {}
 }

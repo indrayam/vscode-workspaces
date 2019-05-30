@@ -10,8 +10,11 @@
             "path": "/Users/anasharm/workspace/imperative-k8s"
         },
         {
+            "path": "/Users/anasharm/workspace/openstack-as-code"
+        },
+        {
             "path": "/Users/anasharm/workspace/openstack-automation-scripts"
-        },       
+        },        
 	],
 	"settings": {}
 }
