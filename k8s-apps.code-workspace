@@ -3,6 +3,12 @@
         {
             "path": "/Users/anasharm/workspace/k8s-apps"
         },
+        {
+            "path": "/Users/anasharm/workspace/redhat-tutorials/istio-tutorial"
+        },
+        {
+            "path": "/Users/anasharm/workspace/istio"
+        },  
     ],
     "settings": {}
 }
