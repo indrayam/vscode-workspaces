@@ -4,5 +4,12 @@
             "path": "/Users/anasharm/workspace/java-apps"
         }
 	],
-	"settings": {}
+    "settings": {
+        "search.exclude": {
+            "**/.metadata": true
+        },
+        "files.watcherExclude": {
+            "**/.metadata/**": true
+        }
+    }
 }
