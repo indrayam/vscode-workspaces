@@ -5,6 +5,9 @@
         }
 	],
     "settings": {
+        "files.exclude": {
+            "**/bin": true
+        },
         "search.exclude": {
             "**/.metadata": true
         },
