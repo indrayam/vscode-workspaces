@@ -13,6 +13,7 @@
         },
         "files.watcherExclude": {
             "**/.metadata/**": true
-        }
+        },
+        "java.configuration.updateBuildConfiguration": "automatic"
     }
 }
