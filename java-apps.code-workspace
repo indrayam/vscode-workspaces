@@ -6,7 +6,8 @@
 	],
     "settings": {
         "files.exclude": {
-            "**/bin": true
+            "**/bin": true,
+            "**/.factorypath": true
         },
         "search.exclude": {
             "**/.metadata": true
@@ -14,6 +15,7 @@
         "files.watcherExclude": {
             "**/.metadata/**": true
         },
-        "java.configuration.updateBuildConfiguration": "automatic"
+        "java.configuration.updateBuildConfiguration": "automatic",
+        "java.dependency.syncWithFolderExplorer": false
     }
 }
